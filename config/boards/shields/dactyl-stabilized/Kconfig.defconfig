@@ -1,7 +1,7 @@
 if SHIELD_DACTYL_STABILIZED_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "dstab-left"
+    default "Iank-left"
 
 config ZMK_SPLIT_BLE_ROLE_CENTRAL
     default y
